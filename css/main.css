@@ -1,19 +1,15 @@
 h1 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    line-height: 46px;
-    font-size: 43px;
-    margin: 0 0 23px 0;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 32px;
     }
 p {
-    font-family: 'Alice', serif;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
-    font-weight: normal;
-    line-height: 23px;
-    margin: 0 0 23px 0;
     }
 html {
-  background: url(img/PaleBlueBackdrop.jpg) no-repeat center center fixed;
+  background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
