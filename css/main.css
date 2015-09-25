@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    line-height: 46px;
+    font-size: 43px;
+    margin: 0 0 23px 0;
+    }
+p {
+    font-family: 'Alice', serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
+html {
+  background: url(img/PaleBlueBackdrop.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
