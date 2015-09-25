@@ -1,2 +1,3 @@
 # palebluedot
-Carl Sagan Excerpt
+Inspired by Carl Sagan
+Intellectual Property of the Universe
