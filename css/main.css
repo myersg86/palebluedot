@@ -7,6 +7,7 @@ p {
     color: white;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
+    word-break: break-word;
     }
 html {
   background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat center center fixed;
@@ -14,4 +15,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+div {
+  max-width: 700px;
 }
