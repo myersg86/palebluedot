@@ -1,21 +1,46 @@
 h1 {
-    color: white;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 32px;
-    }
-p {
-    color: white;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
-    word-break: break-word;
-    }
-html {
-  background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    color: #fff;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 36px;
+    text-align: center
 }
-div {
-  max-width: 700px;
+
+p {
+    color: #fff;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 18px;
+    word-break: normal
+}
+
+html {
+    background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.intro,.palebluecontent {
+    max-width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.intro p {
+    font-size: 16px
+}
+
+.palebluecontent p,.presentation p {
+    font-size: 20px
+}
+
+.presentation {
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 50px
+}
+
+.palebluecontent {
+    margin-top: 300px
 }
