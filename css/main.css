@@ -14,7 +14,7 @@ p {
 }
 
 html {
-    background: url(/img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
+    background: url(img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
