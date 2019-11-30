@@ -10,10 +10,11 @@ p {
     font-family: 'Source Sans Pro',sans-serif;
     font-size: 18px;
     word-break: normal;
+    text-align: justify;
 }
 
 html {
-    background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
+    background: url(/img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
